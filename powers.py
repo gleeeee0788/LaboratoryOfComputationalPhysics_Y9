@@ -1,0 +1,1 @@
+def powers(x, y): return x**y
